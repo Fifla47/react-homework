@@ -8,6 +8,7 @@ export default function App() {
       <div className="container">
         <h1>Weather App</h1>
         <Weather />
+        <a href="https://github.com/Fifla47/react-homework">Github URL</a>
       </div>
     </div>
   );
